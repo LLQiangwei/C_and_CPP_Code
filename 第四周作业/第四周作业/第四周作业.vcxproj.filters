@@ -18,5 +18,14 @@
     <ClCompile Include="第四周作业1.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="第四周作业2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="第四周作业4.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="第四周作业3.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
