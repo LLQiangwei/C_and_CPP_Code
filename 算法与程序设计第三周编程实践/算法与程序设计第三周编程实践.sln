@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "算法与程序设计第三周编程实践", "算法与程序设计第三周编程实践\算法与程序设计第三周编程实践.vcxproj", "{2AA46062-DC1B-4FD9-BA77-CD682A8A169D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AA46062-DC1B-4FD9-BA77-CD682A8A169D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2AA46062-DC1B-4FD9-BA77-CD682A8A169D}.Debug|Win32.Build.0 = Debug|Win32
+		{2AA46062-DC1B-4FD9-BA77-CD682A8A169D}.Release|Win32.ActiveCfg = Release|Win32
+		{2AA46062-DC1B-4FD9-BA77-CD682A8A169D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
